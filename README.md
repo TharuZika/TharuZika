@@ -2,7 +2,7 @@
 <br>
 <br>
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vcenter=true&duration=8000&color=30c208&width=800&lines=H3L70+W0RLD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vcenter=false&duration=8000&color=30c208&width=800&lines=H3L70+W0RLD)](https://git.io/typing-svg)
 <p>
   <h1 align="center"><b>I'm TharuZika👋</b></h1>
 </p>
