@@ -1,8 +1,8 @@
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=H3L70+W0R7D&center=true&width=500&height=50"></a>
-</p><br>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=H3L70+W0R7D&center=true&size=32&width=500&height=50"></a>
+</p>
 <p>
   <h1 align="center"><b>I'm TharuZika👋</b></h1>
 </p>
