@@ -1,7 +1,7 @@
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 &nbsp;
 &nbsp;
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=8000&color=30c208&width=800&lines=||||||||||||||||||||||||||||||||||||+H3L70+W0RLD+||||||||||||||||||||||||||||||||||||)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vcenter=true&duration=8000&color=30c208&width=800&lines=H3L70+W0RLD)](https://git.io/typing-svg)
 <p>
   <h1 align="center"><b>I'm TharuZika👋</b></h1>
 </p>
@@ -25,7 +25,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+Gamer;Software+Engineer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=I'm+a+Gamer;I'm+a"Software+Engineer;I'm+a+Student+of+IJSE)](https://git.io/typing-svg)
 
 <br>
 
