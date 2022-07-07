@@ -26,7 +26,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=A+Gamer;A+Software+Engineer;A+Student+of+IJSE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=A+Student+of+IJSE;A+Software+Engineer;A+Gamer)](https://git.io/typing-svg)
 
 <br>
 
