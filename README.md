@@ -25,6 +25,10 @@
 
 <br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+Gamer;Software+Engineer;)](https://git.io/typing-svg)
+
+<br>
+
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 ### I am a Full Stack Developer
