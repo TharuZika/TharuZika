@@ -48,7 +48,7 @@
 
 <img align="left" alt="JAVA" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="React" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />
+
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -59,6 +59,7 @@
 
 ### Tools : 
 <img align="left" alt="Hibernate" width="40px" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" />
+<img align="left" alt="React" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="IntelliJ IDEA" width="40px" src="https://camo.githubusercontent.com/61f5c9a2351e303c6523347655e93aebaf14254c4d8b67b288d0d58941c4fea7/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f696e74656c6c696a2d696465612e706e67" />
