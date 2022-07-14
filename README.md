@@ -57,13 +57,15 @@
 <img align="left" alt="Hibernate" width="40px" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="IntelliJ IDEA" width="40px" src="https://icon-library.com/icon/intellij-idea-icon-5.html.html" />
+<img align="left" alt="IntelliJ IDEA" width="40px" src="https://camo.githubusercontent.com/61f5c9a2351e303c6523347655e93aebaf14254c4d8b67b288d0d58941c4fea7/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f696e74656c6c696a2d696465612e706e67" />
+<img align="left" alt="Scene Builder" width="40px" src="https://camo.githubusercontent.com/d38528f9c0dc00758a51a982947148b7919d20df773a2dae2e15f1e648f83c5a/68747470733a2f2f69322e77702e636f6d2f676c756f6e68712e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031352f30322f5363656e654275696c6465724c6f676f2e706e673f6669743d3738312532433738312673736c3d31" />
 <img align="left" alt="Figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+<img align="left" alt="Unity" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
 <img align="left" alt="Windows" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
 <img align="left" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
 
-
+<!-- Unity icon -> https://camo.githubusercontent.com/f8f5c4f90fe3c43e5b7858360cf3a4eeffcaa0bdf7352c7c8c4b9c1489bb7f99/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f756e69747933642f756e69747933642d69636f6e2e737667-->
 
 <br>
 <br>
