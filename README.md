@@ -65,7 +65,7 @@
 <img align="left" alt="Scene Builder" width="40px" src="https://camo.githubusercontent.com/d38528f9c0dc00758a51a982947148b7919d20df773a2dae2e15f1e648f83c5a/68747470733a2f2f69322e77702e636f6d2f676c756f6e68712e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031352f30322f5363656e654275696c6465724c6f676f2e706e673f6669743d3738312532433738312673736c3d31" />
 <img align="left" alt="Figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img align="left" alt="Unity" width="40px" src="https://camo.githubusercontent.com/f8f5c4f90fe3c43e5b7858360cf3a4eeffcaa0bdf7352c7c8c4b9c1489bb7f99/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f756e69747933642f756e69747933642d69636f6e2e737667" />
-<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
+<img align="left" alt="Linux" width="40px" src="https://www.freeiconspng.com/uploads/linux-icon-2.png"/>
 <img align="left" alt="Windows" width="40px" src="https://www.freeiconspng.com/uploads/system-windows-icon-png-4.png" />
 <img align="left" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
 
