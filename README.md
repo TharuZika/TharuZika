@@ -1,4 +1,11 @@
 <!--  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
+ <p align="center">
+  <video width="100%" autoplay loop muted>
+    <source src="https://static.gigabyte.com/StaticFile/Video/Global/6a25bca68efc8b819151e921b87ef0da/ModelSectionChildVideoItem/7175" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
  [![GPT SVG](https://openaicom.imgix.net/b11fba8c-c51f-41c1-95b8-cc55db89af49/gpt-4-motif.svg)](https://openai.com/product/gpt-4)
 
 
